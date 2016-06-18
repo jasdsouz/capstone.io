@@ -1,0 +1,11 @@
+plate0: 10 results
+    - B51T	 confidence: 82.2346
+    - BC51T	 confidence: 75.3091
+    - 851T	 confidence: 74.7309
+    - BC51	 confidence: 70.0726
+    - G51T	 confidence: 69.9943
+    - BG51T	 confidence: 69.8221
+    - S51T	 confidence: 69.7775
+    - BS1T	 confidence: 69.0365
+    - B051T	 confidence: 68.8391
+    - C51T	 confidence: 67.8631

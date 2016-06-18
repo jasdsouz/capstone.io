@@ -1,0 +1,11 @@
+plate0: 10 results
+    - 0V71E	 confidence: 86.6016
+    - C0V71E	 confidence: 83.0938
+    - G0V71E	 confidence: 78.1038
+    - E0V71E	 confidence: 77.0977
+    - D0V71E	 confidence: 76.7137
+    - 00V71E	 confidence: 76.2153
+    - Q0V71E	 confidence: 76.1632
+    - DV71E	 confidence: 75.8007
+    - QV71E	 confidence: 75.6973
+    - B0V71E	 confidence: 75.4346

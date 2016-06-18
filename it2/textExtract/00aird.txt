@@ -1,0 +1,11 @@
+plate0: 10 results
+    - QQAI	 confidence: 85.948
+    - 0QAI	 confidence: 82.521
+    - Q0AI	 confidence: 74.0735
+    - QQAU	 confidence: 72.5162
+    - QQAH	 confidence: 71.0969
+    - QQAD	 confidence: 71.0948
+    - GQAI	 confidence: 70.8519
+    - 00AI	 confidence: 70.6466
+    - QGAI	 confidence: 69.657
+    - 0QAU	 confidence: 69.0893
