@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<VehicleData>
+<Registration>00AIRD</Registration>
+<Year>2012</Year>
+<Color>BLUE</Color>
+<Make>SUB</Make>
+<Model>IMPREZA</Model>
+<Type>SEDAN</Type>
+<Expiry Date>1-Sep-16</Expiry Date>
+<MATCHED>NOT-MATCHED</MATCHED>
+
+<Registration>ABC51T</Registration>
+<Year>1989</Year>
+<Color>RED</Color>
+<Make>MAZDA</Make>
+<Model>MOTOR</Model>
+<Type>CORPORATION</Type>
+<Other>MX5</Other>
+<Expiry Date>19-Nov-16</Expiry Date>
+<MATCHED>NOT-MATCHED</MATCHED>
+
+<Text File Input>(“s“M m w 3:,“ .. f ,_ ,.....      J»;</Text File Input>
+<Registration>AUH05X</Registration>
+<Year>2005</Year>
+<Color>GREY</Color>
+<Make>SUBARU</Make>
+<Model>G-2</Model>
+<Type>SEDAN</Type>
+<Expiry Date>4-Jan-17</Expiry Date>
+<MATCHED>NOT-MATCHED</MATCHED>
+
+<Registration>BVC82N</Registration>
+<Year>2006</Year>
+<Color>BLUE</Color>
+<Make>HONDA</Make>
+<Model>CIVIC</Model>
+<Type>4DR</Type>
+<Other>SED</Other>
+<Expiry Date>11-Jul-16</Expiry Date>
+<MATCHED>NOT-MATCHED</MATCHED>
+
+<Registration>COV71E</Registration>
+<Year>2013</Year>
+<Color>BRONZE</Color>
+<Make>TOY</Make>
+<Model>COROLLA</Model>
+<Type>SEDAN</Type>
+<Expiry Date>7-Aug-16</Expiry Date>
+<MATCHED>NOT-MATCHED</MATCHED>
+
+<Text File Input>m “bun-Wulgn 1-:- -.</Text File Input>
+<Registration>CRE64Y</Registration>
+<Year>2013</Year>
+<Color>WHITE</Color>
+<Make>SUB</Make>
+<Model>IMPREZA</Model>
+<Type>SEDAN</Type>
+<Expiry Date>23-Apr-17</Expiry Date>
+<MATCHED>NOT-MATCHED</MATCHED>
+
+</VehicleData>

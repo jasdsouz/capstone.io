@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<VehicleData>
+<Text File Input>plate0: 10 results    - QQAI	 confidence: 85.948    - 0QAI	 confidence: 82.521    - Q0AI	 confidence: 74.0735    - QQAU	 confidence: 72.5162    - QQAH	 confidence: 71.0969    - QQAD	 confidence: 71.0948    - GQAI	 confidence: 70.8519    - 00AI	 confidence: 70.6466    - QGAI	 confidence: 69.657    - 0QAU	 confidence: 69.0893</Text File Input>
+<Registration>00AIRD</Registration>
+<Year>2012</Year>
+<Color>BLUE</Color>
+<Make>SUB</Make>
+<Model>IMPREZA</Model>
+<Type>SEDAN</Type>
+<Expiry Date>1-Sep-16</Expiry Date>
+<MATCHED>NOT-MATCHED</MATCHED>
+
+<Text File Input>plate0: 10 results    - B51T	 confidence: 82.2346    - BC51T	 confidence: 75.3091    - 851T	 confidence: 74.7309    - BC51	 confidence: 70.0726    - G51T	 confidence: 69.9943    - BG51T	 confidence: 69.8221    - S51T	 confidence: 69.7775    - BS1T	 confidence: 69.0365    - B051T	 confidence: 68.8391    - C51T	 confidence: 67.8631</Text File Input>
+<Registration>ABC51T</Registration>
+<Year>1989</Year>
+<Color>RED</Color>
+<Make>MAZDA</Make>
+<Model>MOTOR</Model>
+<Type>CORPORATION</Type>
+<Other>MX5</Other>
+<Expiry Date>19-Nov-16</Expiry Date>
+<MATCHED>NOT-MATCHED</MATCHED>
+
+<Text File Input>No license plates found.</Text File Input>
+<Registration>AUH05X</Registration>
+<Year>2005</Year>
+<Color>GREY</Color>
+<Make>SUBARU</Make>
+<Model>G-2</Model>
+<Type>SEDAN</Type>
+<Expiry Date>4-Jan-17</Expiry Date>
+<MATCHED>NOT-MATCHED</MATCHED>
+
+<Text File Input>No license plates found.</Text File Input>
+<Registration>BVC82N</Registration>
+<Year>2006</Year>
+<Color>BLUE</Color>
+<Make>HONDA</Make>
+<Model>CIVIC</Model>
+<Type>4DR</Type>
+<Other>SED</Other>
+<Expiry Date>11-Jul-16</Expiry Date>
+<MATCHED>NOT-MATCHED</MATCHED>
+
+<Text File Input>plate0: 10 results    - 0V71E	 confidence: 86.6016    - C0V71E	 confidence: 83.0938    - G0V71E	 confidence: 78.1038    - E0V71E	 confidence: 77.0977    - D0V71E	 confidence: 76.7137    - 00V71E	 confidence: 76.2153    - Q0V71E	 confidence: 76.1632    - DV71E	 confidence: 75.8007    - QV71E	 confidence: 75.6973    - B0V71E	 confidence: 75.4346</Text File Input>
+<Registration>COV71E</Registration>
+<Year>2013</Year>
+<Color>BRONZE</Color>
+<Make>TOY</Make>
+<Model>COROLLA</Model>
+<Type>SEDAN</Type>
+<Expiry Date>7-Aug-16</Expiry Date>
+<MATCHED>NOT-MATCHED</MATCHED>
+
+<Text File Input>No license plates found.</Text File Input>
+<Registration>CRE64Y</Registration>
+<Year>2013</Year>
+<Color>WHITE</Color>
+<Make>SUB</Make>
+<Model>IMPREZA</Model>
+<Type>SEDAN</Type>
+<Expiry Date>23-Apr-17</Expiry Date>
+<MATCHED>NOT-MATCHED</MATCHED>
+
+</VehicleData>
