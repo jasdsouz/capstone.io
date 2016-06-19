@@ -1,0 +1,7 @@
+plate0: 6 results
+    - 00AI	 confidence: 86.8157
+    - 0QAI	 confidence: 83.8846
+    - Q0AI	 confidence: 75.7092
+    - QQAI	 confidence: 72.7782
+    - G0AI	 confidence: 67.0271
+    - GQAI	 confidence: 64.096
